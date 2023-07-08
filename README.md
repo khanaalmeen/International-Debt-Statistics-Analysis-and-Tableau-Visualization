@@ -1,4 +1,9 @@
 # International-Debt-Statistics-Analysis-and-Visualization
+
+
+![image](https://github.com/khanaalmeen/International-Debt-Statistics-Analysis-and-Visualization/assets/106391555/0b98df13-49d2-4c5d-9fc7-a3c5ee7a666c)
+
+
 ### The World Bank is an international financial institution that provides loans and grants to the governments of low- and middle-income countries for the purpose of pursuing capital projects.
 ## Problem Statement:
  It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
