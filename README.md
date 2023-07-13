@@ -46,3 +46,10 @@ International Debt Statistics (IDS) | Data Catalog (worldbank.org)
 
 ## Approaches:
 SQL, Tableau, Power BI or you can use any tools and techniques as per your convenience. We would appreciate your valid imagination in finding solutions.
+
+## Tableau DashBoard Link 
+https://public.tableau.com/authoring/WorldBankDebtAnalysis/Dashboard1#1
+
+## DashBoard
+![image](https://github.com/khanaalmeen/International-Debt-Statistics-Analysis-and-Tableau-Visualization/assets/106391555/e19e28b0-820e-40c4-ba51-77b0890f7530)
+
